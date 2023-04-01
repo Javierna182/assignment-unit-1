@@ -3,22 +3,46 @@ body {
 }
 header {
     background-color: rgb(98, 98, 98);
+    border: 1px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 40px;
 }
 footer {
     background-color: rgb(45, 67, 67);
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
 }
 h1 {
     text-align: center;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
 }
 p {
     color: aliceblue;
     font-style: oblique;
 }
 img {
-    border: 5px solid #555;
+    border: 7px solid #3d7684;
+    width: 40%;
 }
 ul {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.about-header {
+    padding-top: 10px;
+
 }
 /* Give your page a fun background color */
 
